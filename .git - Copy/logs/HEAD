@@ -1,0 +1,117 @@
+0000000000000000000000000000000000000000 aaa8351ae6559fae98ccd578bbf3f428760cd2f5 dhusemann <drhent@hotmail.com> 1620764916 -0500	clone: from https://github.com/dhusemann/Idle-Champions.git
+aaa8351ae6559fae98ccd578bbf3f428760cd2f5 ea0ec0bf8d84a4ce6c9b026bba5de87ba355fc2d dhusemann <drhent@hotmail.com> 1621204938 -0500	pull --progress origin: Fast-forward
+ea0ec0bf8d84a4ce6c9b026bba5de87ba355fc2d a2b58fc5952d0892aaeb44b035117130c35c4166 dhusemann <drhent@hotmail.com> 1622087502 -0500	pull --progress origin: Fast-forward
+a2b58fc5952d0892aaeb44b035117130c35c4166 c1ab56b359c1ae04f1998d5b7ab2cc8d514f6351 dhusemann <drhent@hotmail.com> 1626483216 -0500	pull --progress origin: Fast-forward
+c1ab56b359c1ae04f1998d5b7ab2cc8d514f6351 26917414e763f0fa9b13fcccaf516f297ea7016e dhusemann <drhent@hotmail.com> 1628765670 -0500	pull --progress origin: Fast-forward
+26917414e763f0fa9b13fcccaf516f297ea7016e 46c160f49a2acfe3e8bd2505bf8b864e0c1c3bac dhusemann <drhent@hotmail.com> 1628765943 -0500	commit: Merge remote-tracking branch 'upstream/master'
+46c160f49a2acfe3e8bd2505bf8b864e0c1c3bac 71f50dcc30d222bfaf1380199a90167a1ae3c673 dhusemann <drhent@hotmail.com> 1628766021 -0500	merge upstream/master: Merge made by the 'recursive' strategy.
+71f50dcc30d222bfaf1380199a90167a1ae3c673 dc5b89e9b1383b9ae745e1207510a6be3cfdf431 dhusemann <drhent@hotmail.com> 1630037650 -0500	merge upstream/master: Merge made by the 'recursive' strategy.
+dc5b89e9b1383b9ae745e1207510a6be3cfdf431 0db2b395c7c6d9b55800df791f1fd7f215d6f1c9 dhusemann <drhent@hotmail.com> 1637018449 -0600	checkout: moving from master to upstreammaster
+0db2b395c7c6d9b55800df791f1fd7f215d6f1c9 dc5b89e9b1383b9ae745e1207510a6be3cfdf431 dhusemann <drhent@hotmail.com> 1637018567 -0600	checkout: moving from upstreammaster to origin/master
+dc5b89e9b1383b9ae745e1207510a6be3cfdf431 dc5b89e9b1383b9ae745e1207510a6be3cfdf431 dhusemann <drhent@hotmail.com> 1637018718 -0600	checkout: moving from dc5b89e9b1383b9ae745e1207510a6be3cfdf431 to master
+dc5b89e9b1383b9ae745e1207510a6be3cfdf431 28929a7f2c381168ab7f14adaf369241b7bb1183 dhusemann <drhent@hotmail.com> 1637018735 -0600	merge upstream/master: Merge made by the 'recursive' strategy.
+28929a7f2c381168ab7f14adaf369241b7bb1183 dcb4a4bb75681f588bd69ee741da8fc00321f5a0 dhusemann <drhent@hotmail.com> 1640622762 -0600	checkout: moving from master to upstreammaster
+dcb4a4bb75681f588bd69ee741da8fc00321f5a0 28929a7f2c381168ab7f14adaf369241b7bb1183 dhusemann <drhent@hotmail.com> 1640622793 -0600	checkout: moving from upstreammaster to master
+28929a7f2c381168ab7f14adaf369241b7bb1183 99f987f0cc691948071f56388755536e608a8631 dhusemann <drhent@hotmail.com> 1640622808 -0600	merge upstream/master: Merge made by the 'ort' strategy.
+99f987f0cc691948071f56388755536e608a8631 f222daec7e826a8e5d7c62a5088255bcd48dec89 dhusemann <drhent@hotmail.com> 1640824769 -0600	commit: update gitignore
+f222daec7e826a8e5d7c62a5088255bcd48dec89 dcb4a4bb75681f588bd69ee741da8fc00321f5a0 dhusemann <drhent@hotmail.com> 1640824802 -0600	checkout: moving from master to upstreammaster
+dcb4a4bb75681f588bd69ee741da8fc00321f5a0 f222daec7e826a8e5d7c62a5088255bcd48dec89 dhusemann <drhent@hotmail.com> 1640824919 -0600	checkout: moving from upstreammaster to master
+f222daec7e826a8e5d7c62a5088255bcd48dec89 441c05c45c555dcf5879572911adba4c53c86677 dhusemann <drhent@hotmail.com> 1640825050 -0600	commit: match upstream
+441c05c45c555dcf5879572911adba4c53c86677 dcb4a4bb75681f588bd69ee741da8fc00321f5a0 dhusemann <drhent@hotmail.com> 1640825075 -0600	checkout: moving from master to upstreammaster
+dcb4a4bb75681f588bd69ee741da8fc00321f5a0 441c05c45c555dcf5879572911adba4c53c86677 dhusemann <drhent@hotmail.com> 1640825102 -0600	checkout: moving from upstreammaster to master
+441c05c45c555dcf5879572911adba4c53c86677 2d62363a3c40190a91639ca6937d457cefe412aa dhusemann <drhent@hotmail.com> 1641686463 -0600	checkout: moving from master to IC-Script-Hub-Public
+2d62363a3c40190a91639ca6937d457cefe412aa a1eb527bb334d8d9146dd9685e6f8a3fbf17fb7e dhusemann <drhent@hotmail.com> 1641770653 -0600	checkout: moving from IC-Script-Hub-Public to Briv-Shandie-Test
+a1eb527bb334d8d9146dd9685e6f8a3fbf17fb7e c3a92e17faf7d5cace37e56ae821d5f72fb7d123 dhusemann <drhent@hotmail.com> 1641802683 -0600	pull --tags upstream Briv-Shandie-Test: Fast-forward
+c3a92e17faf7d5cace37e56ae821d5f72fb7d123 441c05c45c555dcf5879572911adba4c53c86677 dhusemann <drhent@hotmail.com> 1641802729 -0600	checkout: moving from Briv-Shandie-Test to master
+441c05c45c555dcf5879572911adba4c53c86677 c3a92e17faf7d5cace37e56ae821d5f72fb7d123 dhusemann <drhent@hotmail.com> 1641803373 -0600	checkout: moving from master to Briv-Shandie-Test
+c3a92e17faf7d5cace37e56ae821d5f72fb7d123 2d62363a3c40190a91639ca6937d457cefe412aa dhusemann <drhent@hotmail.com> 1641803625 -0600	checkout: moving from Briv-Shandie-Test to IC-Script-Hub-Public
+2d62363a3c40190a91639ca6937d457cefe412aa c3a92e17faf7d5cace37e56ae821d5f72fb7d123 dhusemann <drhent@hotmail.com> 1641803733 -0600	checkout: moving from IC-Script-Hub-Public to IC-Script-Hub-Publiclocal
+c3a92e17faf7d5cace37e56ae821d5f72fb7d123 c3a92e17faf7d5cace37e56ae821d5f72fb7d123 dhusemann <drhent@hotmail.com> 1641803972 -0600	checkout: moving from IC-Script-Hub-Publiclocal to Briv-Shandie-Test
+c3a92e17faf7d5cace37e56ae821d5f72fb7d123 441c05c45c555dcf5879572911adba4c53c86677 dhusemann <drhent@hotmail.com> 1641809792 -0600	checkout: moving from Briv-Shandie-Test to master
+441c05c45c555dcf5879572911adba4c53c86677 2d62363a3c40190a91639ca6937d457cefe412aa dhusemann <drhent@hotmail.com> 1641809864 -0600	checkout: moving from master to IC-Script-Hub-Public
+2d62363a3c40190a91639ca6937d457cefe412aa d4aa7357381c80f7cb6ef5a8056108876b0eac6b dhusemann <drhent@hotmail.com> 1641809884 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+d4aa7357381c80f7cb6ef5a8056108876b0eac6b c3a92e17faf7d5cace37e56ae821d5f72fb7d123 dhusemann <drhent@hotmail.com> 1641810408 -0600	checkout: moving from IC-Script-Hub-Public to Briv-Shandie-Test
+c3a92e17faf7d5cace37e56ae821d5f72fb7d123 d4aa7357381c80f7cb6ef5a8056108876b0eac6b dhusemann <drhent@hotmail.com> 1641834576 -0600	checkout: moving from Briv-Shandie-Test to IC-Script-Hub-Public
+d4aa7357381c80f7cb6ef5a8056108876b0eac6b 72d6c803e4cd288ffc51521d4280d2cea1071394 dhusemann <drhent@hotmail.com> 1641834583 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+72d6c803e4cd288ffc51521d4280d2cea1071394 dcb4a4bb75681f588bd69ee741da8fc00321f5a0 dhusemann <drhent@hotmail.com> 1641834628 -0600	checkout: moving from IC-Script-Hub-Public to upstreammaster
+dcb4a4bb75681f588bd69ee741da8fc00321f5a0 72d6c803e4cd288ffc51521d4280d2cea1071394 dhusemann <drhent@hotmail.com> 1641834730 -0600	checkout: moving from upstreammaster to IC-Script-Hub-Public
+72d6c803e4cd288ffc51521d4280d2cea1071394 ffdf7a88c791bb04c7e4adf0308af0d268137b70 dhusemann <drhent@hotmail.com> 1641868577 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+ffdf7a88c791bb04c7e4adf0308af0d268137b70 441c05c45c555dcf5879572911adba4c53c86677 dhusemann <drhent@hotmail.com> 1641868821 -0600	checkout: moving from IC-Script-Hub-Public to master
+441c05c45c555dcf5879572911adba4c53c86677 ffdf7a88c791bb04c7e4adf0308af0d268137b70 dhusemann <drhent@hotmail.com> 1641868917 -0600	checkout: moving from master to IC-Script-Hub-Public
+ffdf7a88c791bb04c7e4adf0308af0d268137b70 c3a92e17faf7d5cace37e56ae821d5f72fb7d123 dhusemann <drhent@hotmail.com> 1641875389 -0600	checkout: moving from IC-Script-Hub-Public to Briv-Shandie-Test
+c3a92e17faf7d5cace37e56ae821d5f72fb7d123 ffdf7a88c791bb04c7e4adf0308af0d268137b70 dhusemann <drhent@hotmail.com> 1641875411 -0600	checkout: moving from Briv-Shandie-Test to IC-Script-Hub-Public
+ffdf7a88c791bb04c7e4adf0308af0d268137b70 c788c6d765195451471633f36ed26f3382f0d8ff dhusemann <drhent@hotmail.com> 1641917059 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+c788c6d765195451471633f36ed26f3382f0d8ff f52454957b483121bd8b9d8fa57a66c6ced45354 dhusemann <drhent@hotmail.com> 1641956676 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+f52454957b483121bd8b9d8fa57a66c6ced45354 cf388fc1e30cdcf947cc3dc4e01cc140d93bc149 dhusemann <drhent@hotmail.com> 1642131270 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+cf388fc1e30cdcf947cc3dc4e01cc140d93bc149 9618290245bcee42948540dcac625a61f3b16241 dhusemann <drhent@hotmail.com> 1642189779 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+9618290245bcee42948540dcac625a61f3b16241 441c05c45c555dcf5879572911adba4c53c86677 dhusemann <drhent@hotmail.com> 1642189794 -0600	checkout: moving from IC-Script-Hub-Public to master
+441c05c45c555dcf5879572911adba4c53c86677 9618290245bcee42948540dcac625a61f3b16241 dhusemann <drhent@hotmail.com> 1642189847 -0600	checkout: moving from master to IC-Script-Hub-Public
+9618290245bcee42948540dcac625a61f3b16241 753bf080bb614455fd7931a4e5ffeff9c59f78a7 dhusemann <drhent@hotmail.com> 1642190152 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+753bf080bb614455fd7931a4e5ffeff9c59f78a7 2cd19006daeb02c945327641383b97bf9a985193 dhusemann <drhent@hotmail.com> 1642199737 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+2cd19006daeb02c945327641383b97bf9a985193 3037bb80560920c0db572caf802d3f3f32d2115f dhusemann <drhent@hotmail.com> 1642283694 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+3037bb80560920c0db572caf802d3f3f32d2115f 441c05c45c555dcf5879572911adba4c53c86677 dhusemann <drhent@hotmail.com> 1642284746 -0600	checkout: moving from IC-Script-Hub-Public to master
+441c05c45c555dcf5879572911adba4c53c86677 30e526bc880a9cadab379bcf14dc509ce7270382 dhusemann <drhent@hotmail.com> 1642284746 -0600	pull upstream master: Merge made by the 'ort' strategy.
+30e526bc880a9cadab379bcf14dc509ce7270382 3037bb80560920c0db572caf802d3f3f32d2115f dhusemann <drhent@hotmail.com> 1642284893 -0600	checkout: moving from master to IC-Script-Hub-Public
+3037bb80560920c0db572caf802d3f3f32d2115f 6090c639adeef63fa0ccc4d0fb2418297e418e4a dhusemann <drhent@hotmail.com> 1642373510 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+6090c639adeef63fa0ccc4d0fb2418297e418e4a 6090c639adeef63fa0ccc4d0fb2418297e418e4a dhusemann <drhent@hotmail.com> 1642373829 -0600	checkout: moving from IC-Script-Hub-Public to to-test-switch-for-if/else
+6090c639adeef63fa0ccc4d0fb2418297e418e4a cc7dd77b5ef1a29d5a13151f267e89c65d1af3e4 dhusemann <drhent@hotmail.com> 1642377939 -0600	checkout: moving from to-test-switch-for-if/else to IC-Script-Hub-Public
+cc7dd77b5ef1a29d5a13151f267e89c65d1af3e4 4c5d2c5c8dd7aa3584726d91559d1790dfea452d dhusemann <drhent@hotmail.com> 1642377945 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+4c5d2c5c8dd7aa3584726d91559d1790dfea452d 7ace732f36907e11ca8cdd2d78cd3d8475f80f84 dhusemann <drhent@hotmail.com> 1642656674 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+7ace732f36907e11ca8cdd2d78cd3d8475f80f84 1b9808548c5d6b012e5012d062f534474aaf0e19 dhusemann <drhent@hotmail.com> 1642731411 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+1b9808548c5d6b012e5012d062f534474aaf0e19 8bf573cad27854ba455241817e18667866e418c9 dhusemann <drhent@hotmail.com> 1642815786 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+8bf573cad27854ba455241817e18667866e418c9 2cddc97cb7a06f6c49410a596878729367f3718c dhusemann <drhent@hotmail.com> 1642888549 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+2cddc97cb7a06f6c49410a596878729367f3718c b3ef905b990101b6d5834565975de6d0b3c60cd1 dhusemann <drhent@hotmail.com> 1643079581 -0600	pull --tags upstream IC-Script-Hub-Public: Fast-forward
+b3ef905b990101b6d5834565975de6d0b3c60cd1 b3ef905b990101b6d5834565975de6d0b3c60cd1 dhusemann <drhent@hotmail.com> 1643079708 -0600	checkout: moving from IC-Script-Hub-Public to IC-Script-Hub-Public
+b3ef905b990101b6d5834565975de6d0b3c60cd1 9a5980b18f87b8cea49c98f1f10a21b6a9661258 dhusemann <drhent@hotmail.com> 1643079856 -0600	checkout: moving from IC-Script-Hub-Public to main
+9a5980b18f87b8cea49c98f1f10a21b6a9661258 31913fae1076735cbd528bb46b91d90a4433c247 dhusemann <drhent@hotmail.com> 1643489334 -0600	pull --tags upstream main: Fast-forward
+31913fae1076735cbd528bb46b91d90a4433c247 1e6c8b28ebe48f1b361e1750bf53f51b0ebc29b5 dhusemann <drhent@hotmail.com> 1643526530 -0600	pull --tags upstream main: Fast-forward
+1e6c8b28ebe48f1b361e1750bf53f51b0ebc29b5 db506c2a390925269dc734026972908ef7b0337c dhusemann <drhent@hotmail.com> 1643711162 -0600	pull --tags upstream main: Fast-forward
+db506c2a390925269dc734026972908ef7b0337c 2bd3ace95104880ff650d7c95011a90d3c432df1 dhusemann <drhent@hotmail.com> 1643998350 -0600	pull --tags upstream main: Fast-forward
+2bd3ace95104880ff650d7c95011a90d3c432df1 fe89d75fe8f618c8becf8e77d66cbf8ab7e10834 dhusemann <drhent@hotmail.com> 1643998893 -0600	pull --tags upstream main: Fast-forward
+fe89d75fe8f618c8becf8e77d66cbf8ab7e10834 0c05fc490c60e094272f24118136c7cd5ad29ebf dhusemann <drhent@hotmail.com> 1644005842 -0600	pull --tags upstream main: Fast-forward
+0c05fc490c60e094272f24118136c7cd5ad29ebf c810a1f6352a47e6090cc1261dea8fac2deb05ed dhusemann <drhent@hotmail.com> 1644006660 -0600	pull --tags upstream main: Fast-forward
+c810a1f6352a47e6090cc1261dea8fac2deb05ed c85758711ce28b9e3dc363e2f8f62dc3a3a0045d dhusemann <drhent@hotmail.com> 1644011302 -0600	pull --tags upstream main: Fast-forward
+c85758711ce28b9e3dc363e2f8f62dc3a3a0045d ee4c9489c4adec8ff150cff146b99c516f008b58 dhusemann <drhent@hotmail.com> 1644021289 -0600	pull --tags upstream main: Fast-forward
+ee4c9489c4adec8ff150cff146b99c516f008b58 dec5d0d5c2aea82f2ddca6d0f5d3147c5ee2fecb dhusemann <drhent@hotmail.com> 1644046975 -0600	pull --tags upstream main: Fast-forward
+dec5d0d5c2aea82f2ddca6d0f5d3147c5ee2fecb 2cc8b44e451b318a24c7c7715d09e74eaa36eddf dhusemann <drhent@hotmail.com> 1644111784 -0600	pull --tags upstream main: Fast-forward
+2cc8b44e451b318a24c7c7715d09e74eaa36eddf 4cc13df9798c43500170ca68884a472fdd9f977f dhusemann <drhent@hotmail.com> 1644539573 -0600	pull --tags upstream main: Fast-forward
+4cc13df9798c43500170ca68884a472fdd9f977f 61d0100608932c11c6338acf63ffdf273826f750 dhusemann <drhent@hotmail.com> 1644568883 -0600	pull --tags upstream main: Fast-forward
+61d0100608932c11c6338acf63ffdf273826f750 d9b260fd26a1bff4914abb0828989e403357c979 dhusemann <drhent@hotmail.com> 1644599581 -0600	pull --tags upstream main: Fast-forward
+d9b260fd26a1bff4914abb0828989e403357c979 a125248a7f2241c14b1482f197fc89450418df50 dhusemann <drhent@hotmail.com> 1644601709 -0600	pull --tags upstream main: Fast-forward
+a125248a7f2241c14b1482f197fc89450418df50 cf931cfda80dc30e12840358aa0b7838d83a080a dhusemann <drhent@hotmail.com> 1644763329 -0600	pull --tags upstream main: Fast-forward
+cf931cfda80dc30e12840358aa0b7838d83a080a 938033ab86db5173b7b36a58d97fa14ffe554bd8 dhusemann <drhent@hotmail.com> 1645039051 -0600	pull --tags upstream main: Fast-forward
+938033ab86db5173b7b36a58d97fa14ffe554bd8 16ff532bb23e8ee6c83df88e45fd63c5ae9fb936 dhusemann <drhent@hotmail.com> 1645068620 -0600	pull --tags upstream main: Fast-forward
+16ff532bb23e8ee6c83df88e45fd63c5ae9fb936 8bbe61847aa0529a7715791259fab1e181b1a0e2 dhusemann <drhent@hotmail.com> 1645175441 -0600	pull --tags upstream main: Fast-forward
+8bbe61847aa0529a7715791259fab1e181b1a0e2 f47df956b696397bd4d65af61f3000870f060a0f dhusemann <drhent@hotmail.com> 1645895723 -0600	pull --tags upstream main: Fast-forward
+f47df956b696397bd4d65af61f3000870f060a0f 1cbeb1c3138d7a71f8b4dd56f410403dfa25fb85 dhusemann <drhent@hotmail.com> 1646783330 -0600	pull --tags upstream main: Fast-forward
+1cbeb1c3138d7a71f8b4dd56f410403dfa25fb85 34610e0c501fee040a9fbc6a63e0b04fe6474022 dhusemann <drhent@hotmail.com> 1646835116 -0600	pull --tags upstream main: Fast-forward
+34610e0c501fee040a9fbc6a63e0b04fe6474022 18350ebd5b9ee62fe08c8784449219edcc9b49e5 dhusemann <drhent@hotmail.com> 1647450965 -0500	pull --tags upstream main: Fast-forward
+18350ebd5b9ee62fe08c8784449219edcc9b49e5 28d393033bc335b5d1ff6a19a7677ac2667565c7 dhusemann <drhent@hotmail.com> 1648318004 -0500	pull --tags upstream main: Fast-forward
+28d393033bc335b5d1ff6a19a7677ac2667565c7 096f92f05037fa43a6b5b1f67331baa2a79f36c1 dhusemann <drhent@hotmail.com> 1649457716 -0500	pull --tags upstream main: Fast-forward
+096f92f05037fa43a6b5b1f67331baa2a79f36c1 1822e90ea74718093e4ff0f251ef75b4d7f00634 dhusemann <drhent@hotmail.com> 1649546310 -0500	pull --tags upstream main: Fast-forward
+1822e90ea74718093e4ff0f251ef75b4d7f00634 c770e3811e2763f62fe31b237eef31f6486c6ef6 dhusemann <drhent@hotmail.com> 1650196819 -0500	pull --tags upstream main: Fast-forward
+c770e3811e2763f62fe31b237eef31f6486c6ef6 8c15857dcceb103ef4a93de154527c98b2d279e2 dhusemann <drhent@hotmail.com> 1653353061 -0500	pull --tags upstream main: Fast-forward
+8c15857dcceb103ef4a93de154527c98b2d279e2 e960edc0faf3c47c8c0cc6a873a6a2c63259d168 dhusemann <drhent@hotmail.com> 1653813055 -0500	pull --tags upstream main: Fast-forward
+e960edc0faf3c47c8c0cc6a873a6a2c63259d168 fddbb7d55cf7897beece29fe1584abdcf722c9e3 dhusemann <drhent@hotmail.com> 1654173685 -0500	checkout: moving from main to MemoryRefactor
+fddbb7d55cf7897beece29fe1584abdcf722c9e3 97e9099e8a3dbce2e2cb7e0ee31c41713c85c029 dhusemann <drhent@hotmail.com> 1654173734 -0500	checkout: moving from MemoryRefactor to Auto-Updating-Offsets-v2
+97e9099e8a3dbce2e2cb7e0ee31c41713c85c029 e960edc0faf3c47c8c0cc6a873a6a2c63259d168 dhusemann <drhent@hotmail.com> 1654935038 -0500	checkout: moving from Auto-Updating-Offsets-v2 to main
+e960edc0faf3c47c8c0cc6a873a6a2c63259d168 ef214d24bc71fb8c45886a30eb6d5c895cf4f8a3 dhusemann <drhent@hotmail.com> 1654935044 -0500	pull --tags upstream main: Fast-forward
+ef214d24bc71fb8c45886a30eb6d5c895cf4f8a3 e73f7aed8e4a7fd64700f3c2e4da62e740be186c dhusemann <drhent@hotmail.com> 1656157974 -0500	pull --tags upstream main: Fast-forward
+e73f7aed8e4a7fd64700f3c2e4da62e740be186c 1347b16ad24da27d59ea099ef1b356c5ce496eb4 dhusemann <drhent@hotmail.com> 1657196896 -0500	pull --tags upstream main: Fast-forward
+1347b16ad24da27d59ea099ef1b356c5ce496eb4 fe8b9ea17965637e477a8ee9e38c39ebdb57cb2b dhusemann <drhent@hotmail.com> 1657272698 -0500	pull --tags upstream main: Fast-forward
+fe8b9ea17965637e477a8ee9e38c39ebdb57cb2b b91f67826bef8639dec800e90d348e74ac048b4c dhusemann <drhent@hotmail.com> 1658075333 -0500	pull --tags upstream main: Fast-forward
+b91f67826bef8639dec800e90d348e74ac048b4c 1a1d5428d9caa628d1a78eed47e8b4cfd23365d3 dhusemann <drhent@hotmail.com> 1658345856 -0500	pull --tags upstream main: Fast-forward
+1a1d5428d9caa628d1a78eed47e8b4cfd23365d3 a3fdc7b1356289c7ff78ca394d503352a9a0a5c8 dhusemann <drhent@hotmail.com> 1658868649 -0500	pull --tags upstream main: Fast-forward
+a3fdc7b1356289c7ff78ca394d503352a9a0a5c8 70a55dcad6571c941f633cbd5723737d238b7407 dhusemann <drhent@hotmail.com> 1659139869 -0500	pull --tags upstream main: Fast-forward
+70a55dcad6571c941f633cbd5723737d238b7407 2a50aae46d0bf58de7f074d346f2cbe14b5fd3ff dhusemann <drhent@hotmail.com> 1667046438 -0500	pull --tags upstream main: Fast-forward
+2a50aae46d0bf58de7f074d346f2cbe14b5fd3ff e99f1358ca90c2f5f7b589e295cc57619e4e0ccd dhusemann <drhent@hotmail.com> 1670616432 -0600	pull --tags upstream main: Fast-forward
+e99f1358ca90c2f5f7b589e295cc57619e4e0ccd e99f1358ca90c2f5f7b589e295cc57619e4e0ccd dhusemann <drhent@hotmail.com> 1670773426 -0600	checkout: moving from main to mainlocal
+e99f1358ca90c2f5f7b589e295cc57619e4e0ccd e99f1358ca90c2f5f7b589e295cc57619e4e0ccd dhusemann <drhent@hotmail.com> 1670773669 -0600	checkout: moving from mainlocal to mainlocal
+e99f1358ca90c2f5f7b589e295cc57619e4e0ccd e99f1358ca90c2f5f7b589e295cc57619e4e0ccd dhusemann <drhent@hotmail.com> 1670773693 -0600	checkout: moving from mainlocal to main
+e99f1358ca90c2f5f7b589e295cc57619e4e0ccd e99f1358ca90c2f5f7b589e295cc57619e4e0ccd dhusemann <drhent@hotmail.com> 1670853302 -0600	checkout: moving from main to mainlocal
+e99f1358ca90c2f5f7b589e295cc57619e4e0ccd 8ef011d1c70fac0fe83fd64d98028fb3e9749bcb dhusemann <drhent@hotmail.com> 1674773835 -0600	pull --tags upstream main: Fast-forward
+8ef011d1c70fac0fe83fd64d98028fb3e9749bcb 8ef011d1c70fac0fe83fd64d98028fb3e9749bcb dhusemann <drhent@hotmail.com> 1674773889 -0600	checkout: moving from mainlocal to mainlocal
+8ef011d1c70fac0fe83fd64d98028fb3e9749bcb e99f1358ca90c2f5f7b589e295cc57619e4e0ccd dhusemann <drhent@hotmail.com> 1674773894 -0600	checkout: moving from mainlocal to main
+e99f1358ca90c2f5f7b589e295cc57619e4e0ccd 8ef011d1c70fac0fe83fd64d98028fb3e9749bcb dhusemann <drhent@hotmail.com> 1674773964 -0600	checkout: moving from main to mainlocal
+8ef011d1c70fac0fe83fd64d98028fb3e9749bcb e99f1358ca90c2f5f7b589e295cc57619e4e0ccd dhusemann <drhent@hotmail.com> 1674773999 -0600	checkout: moving from mainlocal to main
+e99f1358ca90c2f5f7b589e295cc57619e4e0ccd 8ef011d1c70fac0fe83fd64d98028fb3e9749bcb dhusemann <drhent@hotmail.com> 1674774054 -0600	checkout: moving from main to mainlocal

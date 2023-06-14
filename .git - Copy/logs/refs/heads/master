@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 aaa8351ae6559fae98ccd578bbf3f428760cd2f5 dhusemann <drhent@hotmail.com> 1620764916 -0500	clone: from https://github.com/dhusemann/Idle-Champions.git
+aaa8351ae6559fae98ccd578bbf3f428760cd2f5 ea0ec0bf8d84a4ce6c9b026bba5de87ba355fc2d dhusemann <drhent@hotmail.com> 1621204938 -0500	pull --progress origin: Fast-forward
+ea0ec0bf8d84a4ce6c9b026bba5de87ba355fc2d a2b58fc5952d0892aaeb44b035117130c35c4166 dhusemann <drhent@hotmail.com> 1622087502 -0500	pull --progress origin: Fast-forward
+a2b58fc5952d0892aaeb44b035117130c35c4166 c1ab56b359c1ae04f1998d5b7ab2cc8d514f6351 dhusemann <drhent@hotmail.com> 1626483216 -0500	pull --progress origin: Fast-forward
+c1ab56b359c1ae04f1998d5b7ab2cc8d514f6351 26917414e763f0fa9b13fcccaf516f297ea7016e dhusemann <drhent@hotmail.com> 1628765670 -0500	pull --progress origin: Fast-forward
+26917414e763f0fa9b13fcccaf516f297ea7016e 46c160f49a2acfe3e8bd2505bf8b864e0c1c3bac dhusemann <drhent@hotmail.com> 1628765943 -0500	commit: Merge remote-tracking branch 'upstream/master'
+46c160f49a2acfe3e8bd2505bf8b864e0c1c3bac 71f50dcc30d222bfaf1380199a90167a1ae3c673 dhusemann <drhent@hotmail.com> 1628766021 -0500	merge upstream/master: Merge made by the 'recursive' strategy.
+71f50dcc30d222bfaf1380199a90167a1ae3c673 dc5b89e9b1383b9ae745e1207510a6be3cfdf431 dhusemann <drhent@hotmail.com> 1630037650 -0500	merge upstream/master: Merge made by the 'recursive' strategy.
+dc5b89e9b1383b9ae745e1207510a6be3cfdf431 28929a7f2c381168ab7f14adaf369241b7bb1183 dhusemann <drhent@hotmail.com> 1637018735 -0600	merge upstream/master: Merge made by the 'recursive' strategy.
+28929a7f2c381168ab7f14adaf369241b7bb1183 99f987f0cc691948071f56388755536e608a8631 dhusemann <drhent@hotmail.com> 1640622808 -0600	merge upstream/master: Merge made by the 'ort' strategy.
+99f987f0cc691948071f56388755536e608a8631 f222daec7e826a8e5d7c62a5088255bcd48dec89 dhusemann <drhent@hotmail.com> 1640824769 -0600	commit: update gitignore
+f222daec7e826a8e5d7c62a5088255bcd48dec89 441c05c45c555dcf5879572911adba4c53c86677 dhusemann <drhent@hotmail.com> 1640825050 -0600	commit: match upstream
+441c05c45c555dcf5879572911adba4c53c86677 30e526bc880a9cadab379bcf14dc509ce7270382 dhusemann <drhent@hotmail.com> 1642284746 -0600	pull upstream master: Merge made by the 'ort' strategy.

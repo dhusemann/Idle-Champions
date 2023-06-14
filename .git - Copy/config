@@ -1,0 +1,42 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = https://github.com/dhusemann/Idle-Champions.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "upstream"]
+	url = https://github.com/mikebaldi/Idle-Champions.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[user]
+	name = dhusemann
+	email = drhent@hotmail.com
+[branch "upstreammaster"]
+	remote = upstream
+	merge = refs/heads/master
+[branch "IC-Script-Hub-Public"]
+	remote = upstream
+	merge = refs/heads/IC-Script-Hub-Public
+[branch "Briv-Shandie-Test"]
+	remote = upstream
+	merge = refs/heads/Briv-Shandie-Test
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "MemoryRefactor"]
+	remote = upstream
+	merge = refs/heads/MemoryRefactor
+[branch "Auto-Updating-Offsets-v2"]
+	remote = upstream
+	merge = refs/heads/Auto-Updating-Offsets-v2
+[branch "mainlocal"]
+	remote = upstream
+	merge = refs/heads/main
